@@ -1,6 +1,6 @@
 # Yet Another ScreenCloud Plugin
 
-YASCP plugin allows you to upload your screens to own server by sftp. YASCP creates dirs (year/month/day) and then upload your image to it. YASCP generates unique screen name.
+YASCP plugin allows you to upload your screens to own server by sftp or ftp. YASCP creates dirs (year/month/day) and then upload your image to it. YASCP generates unique screen name.
 
 ###Installation
 **ScreenCloud** -> **Preferences** -> **Online Services** -> **More Services** -> **Mirror: Other** -> Paste this URL: [YASCP plugin-list.xml](https://raw.githubusercontent.com/kacpersaw/yascp/master/plugin-list.xml)  
@@ -9,6 +9,7 @@ or
 
 ###Configuration
 To use plugin you need
+* `FTP/SFTP` - Plugin works with FTP and SFTP
 * `Username` - Username to your server
 * `Password` - Password to your server
 * `IP` - IP to your server
