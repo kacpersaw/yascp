@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+  <plugin>
+    <name>Yet Another ScreenCloud Plugin</name>
+    <shortname>yascp</shortname>
+    <description>Upload to SFTP with unique name</description>
+    <author>ksawicki</author>
+    <version>0.1</version>
+    <category>online</category>
+    <icon>https://raw.githubusercontent.com/kacpersaw/yascp/master/icon.png</icon>
+    <weblink>https://github.com/kacpersaw/yascp</weblink>
+    <download>https://github.com/kacpersaw/yascp/archive/master.zip</download>
+  </plugin>
+</plugins>
